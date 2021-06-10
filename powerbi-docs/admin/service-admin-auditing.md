@@ -313,8 +313,8 @@ The following operations are available in both the audit and activity logs.
 | Deleted deployment pipeline      | DeleteAlmPipeline                                |                                          |
 | Deleted organizational Power BI content pack      | DeleteOrgApp                                |                                          |
 | Deleted Power BI comment                          | DeleteComment                               |                                          |
-| Deleted Power BI dashboard                        | DeleteDashboard                             | Not currently used                       |
-| Deleted Power BI dataflow                         | DeleteDataflow                              | Not currently used                       |
+| Deleted Power BI dashboard                        | DeleteDashboard                             |                                          |
+| Deleted Power BI dataflow                         | DeleteDataflow                              |                                          |
 | Deleted Power BI dataset                          | DeleteDataset                               |                                          |
 | Deleted Power BI email subscription               | DeleteEmailSubscription                     |                                          |
 | Deleted Power BI folder                           | DeleteFolder                                |                                          |
